@@ -17,7 +17,7 @@ It is especially useful for cybercrime investigators who need to process multipl
   pip install -r requirements.txt
   ```
 
-  ## 🚀 Installation
+## 🚀 Installation
 
 1. Clone the repository:
    ```sh
